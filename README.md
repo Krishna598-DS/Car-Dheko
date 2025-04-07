@@ -83,3 +83,4 @@ Users can input car details through an interactive form.
 The app displays the predicted price instantly.
 Designed for ease of use by both customers and CarDekho sales teams.
 
+![Application](https://github.com/user-attachments/assets/cc091107-0fa2-4228-b328-db99baddb1d2)
